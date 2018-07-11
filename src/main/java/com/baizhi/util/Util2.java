@@ -11,4 +11,6 @@ public class Util2 {
 
 
     private String id3;
+
+    private String id4;
 }
